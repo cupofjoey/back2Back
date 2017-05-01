@@ -61,9 +61,9 @@
 				DEF30C271EB6D3EE00B4784C /* AppDelegate.swift */,
 				DEF30C291EB6D3EE00B4784C /* ViewController.swift */,
 				DEF30C2B1EB6D3EE00B4784C /* Main.storyboard */,
-				DEF30C2E1EB6D3EF00B4784C /* Assets.xcassets */,
 				DEF30C3B1EB6D5B800B4784C /* sheep.mp3 */,
 				DEF30C391EB6D5A400B4784C /* bach.jpg */,
+				DEF30C2E1EB6D3EF00B4784C /* Assets.xcassets */,
 				DEF30C301EB6D3EF00B4784C /* LaunchScreen.storyboard */,
 				DEF30C331EB6D3EF00B4784C /* Info.plist */,
 			);

@@ -50,6 +50,8 @@ class ViewController: UIViewController {
     
     @IBAction func stop(_ sender: AnyObject) {
         
+        scrubber.value = 0
+        
         timer.invalidate()
         player.pause()
         
